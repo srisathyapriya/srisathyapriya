@@ -98,7 +98,6 @@ const sriSathyaPriya = {
 
 </div>
 
-> 💡 **Stats show N/A?** You need at least one **public repository** with code pushed to it. Create one, push your projects, and the stats will populate within a few minutes.
 
 ---
 
@@ -130,7 +129,6 @@ const sriSathyaPriya = {
 
 </div>
 
-> 💡 **Trophies blank?** They only appear once your account has activity (commits, stars, PRs, followers). Push at least one commit to a public repo and they'll start appearing.
 
 ---
 
