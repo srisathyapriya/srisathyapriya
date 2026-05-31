@@ -217,12 +217,16 @@ const sriSathyaPriya = {
 ## 🌱 Currently Learning
 
 ```
-🧱 Full-Stack Depth     →  Advanced React Patterns · Node.js Scalability
-⚙️  System Design       →  HLD / LLD · Caching · Load Balancing
-🧮  DSA & CP            →  Advanced Algorithms · Graph Problems · DP
-☁️  Cloud Fundamentals  →  AWS Core Services · Serverless Basics
-🔐  Security            →  JWT · OAuth 2.0 · API Security Best Practices
+💻  Languages           →  Java · JavaScript · C · Python (Beginner)
+🌐  MERN Stack          →  React.js · Node.js · Express.js · MongoDB
+🔗  APIs & Backend      →  REST APIs · Express.js · Backend Development
+🗃️  Databases           →  MongoDB · MySQL · DBMS
+🧮  DSA                 →  Data Structures & Algorithms using C/C++ (Udemy)
+☕  Java                →  OOP · Java Programming — Beginner to Master (Udemy)
+🤖  Embedded + IoT      →  AI & IoT System Design (NSIC Industrial Training)
+🧪  Testing & Tools     →  Software Testing · Postman · GitHub · VS Code · Eclipse IDE
 ```
+
 
 ---
 
