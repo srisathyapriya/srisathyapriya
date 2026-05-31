@@ -1,19 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  ⚠️  BEFORE YOU UPLOAD THIS FILE — 3 THINGS TO DO                   ║
-║                                                                      ║
-║  1. REPO NAME  →  Must be exactly your GitHub username               ║
-║     e.g. if your username is "SriSathyaPriya26"                      ║
-║     create a repo called  SriSathyaPriya26  (case-sensitive)         ║
-║                                                                      ║
-║  2. REPLACE USERNAME  →  Find every place that says                  ║
-║     YOUR-GITHUB-USERNAME  and replace with your real username        ║
-║                                                                      ║
-║  3. LINKEDIN SLUG  →  Replace  your-linkedin-slug  in the badge      ║
-║     with your real LinkedIn profile slug                             ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=R.%20Sri%20Sathya%20Priya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
@@ -21,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sri+Sathya+Priya+%F0%9F%91%8B;Full-Stack+MERN+Developer+%7C+ECE+Graduate;Java+%2B+JavaScript+%7C+REST+APIs+%7C+MongoDB;Building+Impactful+Web+Applications+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sri+Sathya+Priya+%F0%9F%91%8B;Full-Stack+MERN+Developer+%7C+ECE+Graduate;Java+%2B+JavaScript+%7C+REST+APIs+%7C+MongoDB;Building+Impactful+Web+Applications+%F0%9F%9A%80)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/YOUR-GITHUB-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-slug)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sathya-priya-r-92b6b9259/)
 [![Email](https://img.shields.io/badge/Email-srisathyapriyar26%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srisathyapriyar26@gmail.com)
 
 </div>
