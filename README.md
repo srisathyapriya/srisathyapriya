@@ -1,11 +1,27 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║  ⚠️  BEFORE YOU UPLOAD THIS FILE — 3 THINGS TO DO                   ║
+║                                                                      ║
+║  1. REPO NAME  →  Must be exactly your GitHub username               ║
+║     e.g. if your username is "SriSathyaPriya26"                      ║
+║     create a repo called  SriSathyaPriya26  (case-sensitive)         ║
+║                                                                      ║
+║  2. REPLACE USERNAME  →  Find every place that says                  ║
+║     YOUR-GITHUB-USERNAME  and replace with your real username        ║
+║                                                                      ║
+║  3. LINKEDIN SLUG  →  Replace  your-linkedin-slug  in the badge      ║
+║     with your real LinkedIn profile slug                             ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=R.%20Sri%20Sathya%20Priya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sri+Sathya+Priya+%F0%9F%91%8B;Full-Stack+MERN+Developer+%7C+ECE+Graduate;Java+%2B+JavaScript+%7C+REST+APIs+%7C+MongoDB;Building+Impactful+Web+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sri+Sathya+Priya+%F0%9F%91%8B;Full-Stack+MERN+Developer+%7C+ECE+Graduate;Java+%2B+JavaScript+%7C+REST+APIs+%7C+MongoDB;Building+Impactful+Web+Applications+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sri+Sathya+Priya+%F0%9F%91%8B;Full-Stack+MERN+Developer+%7C+ECE+Graduate;Java+%2B+JavaScript+%7C+REST+APIs+%7C+MongoDB;Building+Impactful+Web+Applications+%F0%9F%9A%80)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SriSathyaPriyaR&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/SriSathyaPriyaR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srisathyapriyar)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-slug)
 [![Email](https://img.shields.io/badge/Email-srisathyapriyar26%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srisathyapriyar26@gmail.com)
 
 </div>
@@ -72,7 +88,7 @@ const sriSathyaPriya = {
 **Tools & Platforms**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -89,14 +105,16 @@ const sriSathyaPriya = {
 
 <div align="center">
 
-<a href="https://github.com/SriSathyaPriyaR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SriSathyaPriyaR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/SriSathyaPriyaR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriSathyaPriyaR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
+
+> 💡 **Stats show N/A?** You need at least one **public repository** with code pushed to it. Create one, push your projects, and the stats will populate within a few minutes.
 
 ---
 
@@ -104,7 +122,7 @@ const sriSathyaPriya = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SriSathyaPriyaR&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME)
 
 </div>
 
@@ -114,7 +132,7 @@ const sriSathyaPriya = {
 
 <div align="center">
 
-[![Sri Sathya Priya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriSathyaPriyaR&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/SriSathyaPriyaR)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/YOUR-GITHUB-USERNAME)
 
 </div>
 
@@ -124,9 +142,11 @@ const sriSathyaPriya = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SriSathyaPriyaR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/SriSathyaPriyaR)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/YOUR-GITHUB-USERNAME)
 
 </div>
+
+> 💡 **Trophies blank?** They only appear once your account has activity (commits, stars, PRs, followers). Push at least one commit to a public repo and they'll start appearing.
 
 ---
 
@@ -134,6 +154,8 @@ const sriSathyaPriya = {
 
 <details>
 <summary><b>🏢 RAMPeX — MERN Stack Intern | 2024 | India</b></summary>
+
+<br/>
 
 > ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -145,7 +167,9 @@ const sriSathyaPriya = {
 </details>
 
 <details>
-<summary><b>🏛️ NSIC, Chennai — Industrial Embedded System with AI & IoT Intern | 2024 | Chennai</b></summary>
+<summary><b>🏛️ NSIC, Chennai — Embedded System with AI &amp; IoT Intern | 2024 | Chennai</b></summary>
+
+<br/>
 
 > ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-0099FF?style=flat-square&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-BF91F3?style=flat-square&logoColor=white)
 
@@ -163,10 +187,10 @@ const sriSathyaPriya = {
 <div align="center">
 
 | Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| [**Mini Lead Management System**](https://github.com/SriSathyaPriyaR) | React.js · Node.js · Express.js · MongoDB | Mini CRM app with RESTful APIs for efficient lead tracking; responsive UI with seamless backend integration & functionality testing · **2026** |
-| [**Gadget-Hub**](https://github.com/SriSathyaPriyaR) | React.js · Node.js · Express.js · MongoDB | Full-stack gadget rental platform with real-time availability tracking, secure auth/authorization, and end-to-end API testing · **2025** |
-| [**EventNest**](https://github.com/SriSathyaPriyaR) | React.js · Node.js · Express.js · MongoDB | Event management app enabling create/manage/book events; secure REST APIs + MongoDB integration for seamless scheduling · **2024** |
+|:--------|:-----:|:-----------|
+| [**Mini Lead Management System**](https://github.com/YOUR-GITHUB-USERNAME) | React.js · Node.js · Express.js · MongoDB | Mini CRM with RESTful APIs for lead tracking; responsive UI, backend integration & functionality testing · **2026** |
+| [**Gadget-Hub**](https://github.com/YOUR-GITHUB-USERNAME) | React.js · Node.js · Express.js · MongoDB | Full-stack gadget rental platform; real-time availability tracking, secure auth, end-to-end API testing · **2025** |
+| [**EventNest**](https://github.com/YOUR-GITHUB-USERNAME) | React.js · Node.js · Express.js · MongoDB | Event management app; create/manage/book events, secure REST APIs, MongoDB integration · **2024** |
 
 </div>
 
@@ -177,13 +201,13 @@ const sriSathyaPriya = {
 <div align="center">
 
 | 🎖️ | Achievement | Details |
-|:---:|:-----------:|:-------:|
+|:---:|:-----------:|:--------|
 | ⭐ | **HackerRank — Java** | Silver Level Badge |
 | 🥉 | **HackerRank — C** | Bronze Level Badge |
 | ✅ | **SkillRack — C Programming** | Bronze · Score: 65 |
 | 🥈 | **Project Expo** | 2nd Place — Mini Project Expo, Sri Eshwar College of Engineering |
 | 🚀 | **Hackathon** | Shortlisted for Infineon Launchpad at CIT, Chennai (2024) |
-| 📖 | **Book Chapter Author** | "Drone Swarms and Autonomous Systems" — *AI Cybersecurity & Data Science for Drones and UAVs* (2024) |
+| 📖 | **Book Chapter Author** | *"Drone Swarms and Autonomous Systems"* — AI Cybersecurity & Data Science for Drones and UAVs (2024) |
 | ☕ | **Udemy** | Java Programming: Beginner to Master |
 | 🗃️ | **HackerRank** | MySQL Certification |
 | 🧮 | **Udemy** | Data Structures & Algorithms using C/C++ |
@@ -225,17 +249,3 @@ const sriSathyaPriya = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-<!--
-**srisathyapriya/srisathyapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
